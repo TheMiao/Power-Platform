@@ -38,8 +38,6 @@ Holiday Calculation it is created as component from component library. It helps 
   
     *WeekDay
         *Number
-    *Date Diff Without Holiday
-        *Number
     *Date Diff With Holiday
         *Number
     *Target Date With Holiday
