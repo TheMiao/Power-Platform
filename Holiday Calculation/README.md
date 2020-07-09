@@ -44,3 +44,7 @@ Holiday Calculation it is created as component from component library. It helps 
         *Number
     *Target Date With Holiday
         *Date and time
+
+# User Instrucation
+
+For user instruction, please check in my personally blog [TheMiao](https://www.cnblogs.com/TheMiao).
