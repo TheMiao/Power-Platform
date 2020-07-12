@@ -20,4 +20,4 @@ Circled Image is a PowerApps component which help user to generate circled image
 
 # User Instrucation
 
-For user instruction, please check in my personally blog [TheMiao](https://www.cnblogs.com/TheMiao/p/13282064.html).
+For user instruction, please check in my personally blog [TheMiao](https://www.cnblogs.com/TheMiao/p/13289694.html).
