@@ -1,9 +1,23 @@
-# PowerApps-Component
+# Circled Image
 
-All the components are free to use and download.
-For free to download and leave feedback to me through miao.wang@outlook.com.au
+Circled Image is a PowerApps component which help user to generate circled image
 
 
-# Inculded Components
+# UI Control Introduction
 
-  *Holiday Calculation
+**Input**
+
+		*Image Height
+			*Number
+
+		*Image Src
+			*Image
+
+		*Component Background
+			*Color
+
+
+
+# User Instrucation
+
+For user instruction, please check in my personally blog [TheMiao](https://www.cnblogs.com/TheMiao/p/13282064.html).
