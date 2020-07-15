@@ -8,9 +8,9 @@ For free to download and leave feedback to me through miao.wang@outlook.com.au
 
 **Power Apps Component**
 
-  *Holiday Calculation
+  * Holiday Calculation
   
-  *Circled Image
+  * Circled Image
 
 
 
