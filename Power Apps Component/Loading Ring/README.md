@@ -1,7 +1,5 @@
 # Loading Ring
 
-Loading Ring helps create 
-
 # UI Control Introduction
 
 **Input**
