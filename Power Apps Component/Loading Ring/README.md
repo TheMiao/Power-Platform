@@ -45,4 +45,4 @@
 
 # User Instrucation
 
-For user instruction, please check in my personally blog [TheMiao](https://www.cnblogs.com/TheMiao).
+For user instruction, please check in my personally blog [TheMiao](https://www.cnblogs.com/TheMiao/p/13332239.html).
