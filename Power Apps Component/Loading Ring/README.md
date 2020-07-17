@@ -1,5 +1,7 @@
 # Loading Ring
 
+Loading Ring Component
+
 # UI Control Introduction
 
 **Input**
