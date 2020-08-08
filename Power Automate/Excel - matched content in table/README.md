@@ -1,6 +1,6 @@
 # Excel - Match content in table
 
-It will join two tables data in 3rd table
+It will match two tables data and add common row into 3rd table
 
 
 
