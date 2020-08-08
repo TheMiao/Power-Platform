@@ -1,12 +1,8 @@
-# ReadMe
+# Excel - Join content in table
+
+It will join two tables data in 3rd table
 
 
-# UI Control Introduction
-
-**Input**
-
-    *1
-  
 
 # User Instrucation
 
